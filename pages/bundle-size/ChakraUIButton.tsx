@@ -8,7 +8,7 @@ export const ChakraUIButton: React.FC<IChakraUIButtonProps> = (props) => {
   return (
     <div style={{ padding: 50 }}>
       <ChakraProvider>
-        <Button colorScheme="green">Button</Button>
+        <Button colorScheme="green">Button dsd</Button>
       </ChakraProvider>
     </div>
   )
